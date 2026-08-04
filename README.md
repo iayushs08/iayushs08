@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://hits.seeyoufarm.org/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiayushs08&count_bg=%23007EC6&title_bg=%23555555&title=Views&edge_flat=true)
+![Views](https://hits.seeyoufarm.org/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiayushs08&count_bg=%230366D6&title_bg=%2324292E&title=Views&edge_flat=false)
 
 <!--
 **iayushs08/iayushs08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
