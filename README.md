@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=iayushs08&label=VIEWS&label_color=24292e&color=0366d6&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=iayushs08&label=Views&label_color=555555&color=007ec6&style=flat)
 
 <!--
 **iayushs08/iayushs08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
