@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=iayushs08&label=Views&label_color=555555&color=007ec6&style=flat-square)
+![](https://hits.seeyoufarm.org/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiayushs08&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true)
 
 <!--
 **iayushs08/iayushs08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
