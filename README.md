@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=iayushs08&label=PROFILE+VIEWS&label_color=24292e&color=0366d6&style=for-the-badge)
 
 <!--
 **iayushs08/iayushs08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
