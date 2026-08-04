@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://img.shields.io/badge/dynamic/json?color=0366d6&label=Views&labelColor=24292e&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fiayushs08%2Fvisits&style=for-the-badge)
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiayushs08&label=Views&labelColor=%2324292e&countColor=%230366d6&style=for-the-badge)
 
 <!--
 **iayushs08/iayushs08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
