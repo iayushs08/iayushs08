@@ -1,8 +1,9 @@
 ## Hi there 👋
 Just figuring it out 🛠️
 
-![](https://komarev.com/ghpvc/?username=iayushs08&label=Views&label_color=555555&color=007ec6&style=flat-square)
-<img src="https://img.shields.io/badge/%20-Python-3776AB?style=flat-square&logo=python&logoColor=FFD438&labelColor=1e1e1e" alt="Python" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/%20-C-A8B9CC?style=flat-square&logo=c&logoColor=00599C&labelColor=1e1e1e" alt="C" />
+## Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <!--
 **iayushs08/iayushs08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
