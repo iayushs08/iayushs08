@@ -1,7 +1,7 @@
 ## Hi there 👋
 Just figuring it out 🛠️
 
-<img src="https://komarev.com/ghpvc/?username=iayushs08&label=Views&color=0e75b6&style=plastic" alt="Views" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiayushs08&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true" alt="Views" />
 ## Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
