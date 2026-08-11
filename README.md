@@ -4,7 +4,7 @@ Just figuring it out 🛠️
 <img src="https://komarev.com/ghpvc/?username=iayushs08&label=Views&color=007ec6&style=flat-square" alt="Views" />
 
 ## Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <!--
 **iayushs08/iayushs08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
