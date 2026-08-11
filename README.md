@@ -1,6 +1,6 @@
 ## Hi there 👋
 Just figuring it out 🛠️
-
+![Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Views&style=flat-square)
 ## Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
