@@ -4,7 +4,7 @@ Just figuring it out 🛠️
 <img src="https://komarev.com/ghpvc/?username=iayushs08&label=Views&color=007ec6&style=flat-square" alt="Views" />
 
 ## Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMzc3NkFCIiBkPSJNMjQ4LjggMTUuMmMtNTcuNSAwLTEwMS45IDcuNi0xMDEuOSA1NS43djQzLjNoMTAyLjR2MTIuOUgxMDIuNGMtNTcuNSAwLTEwNS40IDI5LjMtMTA1LjQgNzguOHM0My4zIDc4LjggMTA1LjQgNzguOGgyNS42djI1LjZjMCA1Ny41IDQ2LjggMTAxLjkgMTAxLjkgMTAxLjloNTEuMmM1Ny41IDAgMTAxLjktNDQuNCAxMDEuOS0xMDEuOXYtNDMuM0gzODR2LTEyLjloMTAyLjRjNTcuNSAwIDEwMS45LTI5LjMgMTAxLjktNzguOHMtNDQuNC03OC44LTEwMS45LTc4LjhoLTI1LjZ2LTI1LjZjMC01Ny41LTQ0LjQtMTAxLjktMTAxLjktMTAxLjloLTUxLjJ6bS0xMi44IDI1LjZjOS41IDAgMTcuMiA3LjYgMTcuMiAxNy4yczAtMTcuMi0xNy4yLTE3LjJjLTkuNSAwLTE3LjItNy42LTE3LjItMTcuMnM3LjYtMTcuMiAxNy4yLTE3LjJ6bTExNS4yIDM4NEg0NDhjOS41IDAgMTcuMiA3LjYgMTcuMiAxNy4yczAtMTcuMi0xNy4yLTE3LjJjLTkuNSAwLTE3LjItNy42LTE3LjItMTcuMnM3LjYtMTcuMiAxNy4yLTE3LjJ6Ii8+PHBhdGggZmlsbD0iI0YzQzEwNyIgZD0iTTI1NiAyNTZoMTI4di01MS4ySDI1NlYyNTZ6Ii8+PHBhdGggZmlsbD0iI0YzQzEwNyIgZD0iTTM4NCAyNTZjMCA3MC43LTU3LjMgMTI4LTEyOCAxMjhoLTEyOFYyNTZoMTI4YzcwLjcgMCAxMjgtNTcuMyAxMjgtMTI4djEyOHoiLz48L3N2Zz4=)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)Z
 <!--
 **iayushs08/iayushs08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
