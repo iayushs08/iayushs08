@@ -1,6 +1,6 @@
 ## Hi There 👋
 Just building stuffs 🛠️
 
-![Views](https://views-counter.vercel.app/badge?pageId=iayushs08/iayushs08&leftColor=00599C&rightColor=3776AB&type=unique&sessionExpire=60&label=Profile+Views&style=flat)
+![Views](https://komarev.com/ghpvc/?username=yourusername&label=Views&color=1e90ff&style=flat-square)
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
